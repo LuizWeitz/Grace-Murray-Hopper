@@ -1,0 +1,34 @@
+
+body {
+    font-family: "Montserrat";
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: italic;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    
+  }
+
+.photo{
+    border-radius: 30%;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    width: 50%;
+    height: 240px;
+    width: 240px;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.button-center{
+    text-align: center;
+   
+}
+
+
